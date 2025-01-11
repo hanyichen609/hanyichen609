@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanyichen609
+- 👋 Hi, I’m hanyichen609
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 📫 How to reach me hanyichen609@gmail.com
