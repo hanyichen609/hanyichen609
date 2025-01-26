@@ -1,4 +1,5 @@
 - 👋 Hi, I’m hanyichen609
+- 👋 I’m ten years old
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 📫 How to reach me hanyichen609@gmail.com
